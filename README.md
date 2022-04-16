@@ -23,6 +23,8 @@ Music Station is an app where users can find the song they want through AI class
 
 **Required Must-have Stories**
 
+- [x] User sees a list of trending playlists on their home page
+- [x] User navigates from page to page using bottom navigation bar
 - [ ] User creates an account and chooses their music preferences
 - [ ] User logs in to access their playlists and the public playlists
 - [ ] User searches for a song either through a searchbar or a song recognition tool
