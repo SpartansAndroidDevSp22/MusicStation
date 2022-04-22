@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">MusicStation</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">YJzkAp7cUkXBva85QTw3YTTENYVWRt08QTXTiY1o</string>
+    <string name="back4app_client_key">GyUM1d3dHYFKkW4HC8LM90DCXF1D3f5QEkyyl63z</string>
+
 </resources>
