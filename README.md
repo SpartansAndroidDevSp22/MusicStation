@@ -71,10 +71,10 @@ Optional:
 * Settings screen -> each specific screen to edit corresponding information
 
 ## Wireframes
-<img src="https://imgur.com/KVTcmlp" width=800><br>
+<img src="https://www.linkpicture.com/view.php?img=LPic6262e4cbd8e501253907758" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://imgur.com/KVTcmlp" height=200>
+<img src="https://www.linkpicture.com/view.php?img=LPic6262e4cbd8e501253907758" height=200>
 
 ### [BONUS] Interactive Prototype
 <img src="https://media.giphy.com/media/HfgBKsqZgP1j2fWRrr/giphy.gif" width=200>
