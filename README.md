@@ -1,6 +1,5 @@
 # MusicStation
 
-Link to the documentation: https://docs.google.com/document/d/1FIs5eUu72h5IPyyFNBkYjvXEXmfXQYyZ1XGadclcZ5E/edit?usp=sharing
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -72,10 +71,10 @@ Optional:
 * Settings screen -> each specific screen to edit corresponding information
 
 ## Wireframes
-<img src="https://imgur.com/a/lmB3s3M" width=800><br>
+<img src="https://imgur.com/KVTcmlp" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://imgur.com/a/lmB3s3M" height=200>
+<img src="https://imgur.com/KVTcmlp" height=200>
 
 ### [BONUS] Interactive Prototype
 <img src="https://media.giphy.com/media/HfgBKsqZgP1j2fWRrr/giphy.gif" width=200>
