@@ -3,8 +3,6 @@ package com.example.musicstation.models
 import com.parse.ParseClassName
 import com.parse.ParseFile
 import com.parse.ParseObject
-import com.parse.ParseUser
-import org.json.JSONArray
 
 @ParseClassName("User")
 class User: ParseObject() {
