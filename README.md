@@ -71,11 +71,11 @@ Optional:
 * Settings screen -> each specific screen to edit corresponding information
 
 ## Wireframes
-[a relative link](prototype.png)
+![Prototype](prototype.png)
 <img src="https://www.linkpicture.com/view.php?img=LPic6262e4cbd8e501253907758"><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-[a relative link](prototype.png)
+![Prototype](prototype.png)
 <img src="https://www.linkpicture.com/view.php?img=LPic6262e4cbd8e501253907758">
 
 ### [BONUS] Interactive Prototype
