@@ -72,11 +72,9 @@ Optional:
 
 ## Wireframes
 ![Prototype](prototype.png)
-<img src="https://www.linkpicture.com/view.php?img=LPic6262e4cbd8e501253907758"><br>
 
 ### [BONUS] Digital Wireframes & Mockups
 ![Prototype](prototype.png)
-<img src="https://www.linkpicture.com/view.php?img=LPic6262e4cbd8e501253907758">
 
 ### [BONUS] Interactive Prototype
 <img src="https://media.giphy.com/media/HfgBKsqZgP1j2fWRrr/giphy.gif" width=200>
