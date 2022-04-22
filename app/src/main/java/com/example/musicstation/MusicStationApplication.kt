@@ -3,7 +3,7 @@ package com.example.musicstation
 import android.app.Application
 import com.parse.Parse
 
-class MusicStationApplication : Application() {
+class  MusicStationApplication : Application() {
     override fun onCreate() {
         super.onCreate()
         Parse.initialize(
