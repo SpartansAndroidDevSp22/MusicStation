@@ -158,7 +158,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/rvTrendingPlaylist"
         app:tabIndicatorColor="@color/white"
-        app:tabTextColor="@color/white">
+        app:tabTextColor="@color/black">
     </com.google.android.material.tabs.TabLayout>
 
     <androidx.recyclerview.widget.RecyclerView
