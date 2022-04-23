@@ -42,6 +42,7 @@ class LoginActivity : AppCompatActivity() {
         // Set fields for the user to be created
         user.setUsername(username)
         user.setPassword(password)
+//        user.setFirstName("John")
 
         user.signUpInBackground { e ->
             if (e == null) {
